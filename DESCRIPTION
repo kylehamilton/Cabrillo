@@ -4,7 +4,7 @@ Title: Read Cabrillo formated data into R
 Version: 1.0
 Date: 2024-02-08
 Authors@R: person("W. Kyle", "Hamilton", email = "kyle.hamilton@gmail.com", role = c("aut", "cre"))
-Description: Reads Cabrillo formated data into R. This is used in ham radio contests.
+Description: Cabrillo refers to a universal log file format managed by the World Wide Radio Operators Foundation (WWROF). This package reads Cabrillo formated log files data into R. This format is used in ham radio contests.
 License: GPL (>= 3)
 Depends: dplyr, tibble
 Encoding: UTF-8
